@@ -2,7 +2,7 @@
 
 I'm exploring data science and analytics. I have experience in logistics operations and process management and am now diving deeper into data-driven decision-making.
 
-📌 [Here is my portfolio](https://github.com/kej511/data-science-portfolio)
+📌 [Here is my portfolio](https://github.com/kej511/data-science-portfolio/tree/master)
 
 ## 🔍 Interests
 - Data Science & Machine Learning
