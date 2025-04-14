@@ -40,7 +40,7 @@ Predict the next day’s **Global Active Power (kW)** consumption based on vario
 
 ## 🚀 Usage
 
-### ▶️ 1. Streamlit App (Interactive UI)
+#### ▶️ 1. Streamlit App (Interactive UI)
 
 ```bash
 streamlit run streamlit_app.py
@@ -48,7 +48,7 @@ Access via browser at: http://localhost:8501
 
 Enter feature values manually to get real-time predictions
 
-⚡ 2. FastAPI App (API Access)
+#### ⚡ 2. FastAPI App (API Access)
 
 uvicorn fastapi_app:app --reload
 Access Swagger UI: http://127.0.0.1:8000/docs
