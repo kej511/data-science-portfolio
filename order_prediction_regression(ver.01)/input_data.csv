@@ -1,0 +1,6 @@
+date,hour,orders,cumulative_orders,total_orders,order_trend,order_trend_numeric,year,month,day,dayofweek_Friday,dayofweek_Monday,dayofweek_Saturday,dayofweek_Sunday,dayofweek_Thursday,dayofweek_Tuesday,dayofweek_Wednesday
+2024-01-01,8,143,143,1669,flat,0,2024,1,1,False,True,False,False,False,False,False
+2024-01-01,9,167,310,1669,flat,0,2024,1,1,False,True,False,False,False,False,False
+2024-01-01,10,165,475,1669,flat,0,2024,1,1,False,True,False,False,False,False,False
+2024-01-01,11,175,650,1669,flat,0,2024,1,1,False,True,False,False,False,False,False
+2024-01-02,8,141,141,1528,flat,0,2024,1,2,False,False,False,False,False,True,False
